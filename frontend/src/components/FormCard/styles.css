@@ -52,6 +52,12 @@
     height: 40px;
     width: 180px;
     display: flex;
+    border-color: var(--color-primary);
     align-items: center;
     justify-content: center;
 }
+
+.dsmovie-btn:hover {
+    border-color: var(--color-secundary);
+    background-color: var(--color-secundary);
+  }
