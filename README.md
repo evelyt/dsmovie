@@ -22,7 +22,7 @@
     <summary>Sumário</summary>
     <ol>
         <li><a href="#pushpin-sobre">Sobre</a></li>
-        <li><a href="#hammer_and_wrench-funcionalidadess">Funcionalidades</a></li>
+        <li><a href="#hammer_and_wrench-funcionalidades">Funcionalidades</a></li>
         <li><a href="#computer-ferramentas-e-recursos-utilizados">Ferramentas e recursos utilizados</a></li>
             </ul>
         </li>
