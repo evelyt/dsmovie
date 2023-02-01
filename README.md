@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/static/v1?label=🚧 status&message=em+produção&color=FDD23F&style=plastic&logo=" alt="status: em produção"/>
 </div>
 
-# <h3>:link:<a href='https://ev-dsmovies.netlify.app/'> Acessar a demonstração (Netlify)</a></h3>
-
 <details>
     <summary>Sumário</summary>
     <ol>
